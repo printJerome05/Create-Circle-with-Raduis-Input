@@ -1,0 +1,16 @@
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\circles.exe
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\circles.deps.json
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\circles.runtimeconfig.json
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\circles.runtimeconfig.dev.json
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\circles.dll
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\ref\circles.dll
+D:\solutions visual studio\circles\circles\bin\Debug\net5.0\circles.pdb
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.csproj.AssemblyReference.cache
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.GeneratedMSBuildEditorConfig.editorconfig
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.AssemblyInfoInputs.cache
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.AssemblyInfo.cs
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.dll
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\ref\circles.dll
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.pdb
+D:\solutions visual studio\circles\circles\obj\Debug\net5.0\circles.genruntimeconfig.cache
